@@ -1,0 +1,206 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "width": 948,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "abouticon"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 10,
+        "id": 7,
+        "name": "abouticon",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "width": 789,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "design"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 11,
+        "id": 6,
+        "name": "design",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M422.599 753.508c-5.233 76.658-22.591 147.879-50.193 213.743l1.638-4.407c-8.86 20.139-24.974 39.353-32.412 61.156h-3.243v-16.1c6.087-9.458 3.115-22.4 6.485-35.428 16.043-61.966 17.252-144.64-9.728-196.423-46.080-88.476-138.354-58.724-230.13-96.612-34.949-16.672-62.861-43.366-80.604-76.342l-0.463-0.941-19.456-54.741c-2.533-12.299-3.983-26.435-3.983-40.909 0-26.959 5.030-52.743 14.204-76.464l-0.493 1.448c44.188-115.641 154.624-166.528 288.484-103.040v-9.657c-11.477-15.644-7.751-38.869-12.971-61.156-14.009-60.004-24.804-256.953 42.14-257.607 18.162 13.17 53.063 12.587 55.111 41.87-4.119 4.257-6.657 10.066-6.657 16.467 0 1.003 0.062 1.992 0.183 2.963l-0.012-0.116h3.243v-3.257c13.952-14.649 17.778-47.943 42.14-51.527 19.456 17.351 52.38 20.807 58.311 51.527-17.268 23.851-30.656 51.808-38.515 81.996l-0.382 1.73h6.485c20.309-26.695 103.993-103.125 142.62-96.612 12.493 17.499 22.469 37.847 28.818 59.737l0.352 1.418c-20.409 7.253-29.796 27.022-45.383 38.642-56.889 42.667-102.841 104.875-139.378 167.452h9.728c22.315-17.351 113.394-25.756 152.348-16.1 102.713 25.486 131.584 60.743 155.577 164.224 3.095 12.855 4.87 27.614 4.87 42.788 0 8.758-0.591 17.378-1.736 25.823l0.109-0.983c-31.047 134.286-96.569 202.084-233.372 231.822-36.58 8.007-73.031-4.693-103.737-6.386z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(246, 246, 246)"
+          }
+        ],
+        "width": 761,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "logo"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(246, 246, 246)"
+        }
+      ],
+      "properties": {
+        "order": 13,
+        "id": 4,
+        "name": "logo",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 3
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "width": 604,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "mobile"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 14,
+        "id": 3,
+        "name": "mobile",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 4
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "width": 839,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "seo"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 15,
+        "id": 2,
+        "name": "seo",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 5
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "width": 1058,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "services"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 16,
+        "id": 1,
+        "name": "services",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 6
+    },
+    {
+      "icon": {
+        "paths": [],
+        "attrs": [],
+        "width": 1007,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "web"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 17,
+        "id": 0,
+        "name": "web",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 7
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}

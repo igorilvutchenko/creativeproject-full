@@ -1,0 +1,16 @@
+<svg width="36" height="61" viewBox="0 0 36 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>mobile</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(335 -143)">
+<g id="mobile">
+<use xlink:href="#path0_fill" fill="url(#pattern0)" transform="translate(-335 143)"/>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternUnits="objectBoundingBox" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="matrix(0.0277778 0 0 0.0163934 0 0)"/>
+</pattern>
+<path id="path0_fill" d="M 0 0L 36 0L 36 61L 0 61L 0 0Z"/>
+<image id="image0" width="36" height="61" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAA9CAYAAADF2cvLAAAC6UlEQVRoge3aT6hUVRzA8c8b52kQZBBGkGGL/ieJi6BN2qJ/JEEURYHljKAvSQXBRYv+LGoRRBaBiyHoXgVbtGoRFUEQ0isiCGpRQmGhhrnIXv98vn9Ni98dum9Iz7uPZp6L+4Uzl4F7f/M95/zOGTi/O7J9S0uJW7ANazGCrsGxDGfwIQ518uwUjJSEduIFrCxkhkUXv2JvJ8+yntBu7CusP8Cb+BmjAxQ5i2uxB+vwG55s4lk8XMi8XHyfHqBImc/wNl7BDrQaeEDkzPvYjykxjENpnTybxEF8gzsbWC9y5lMcG9BIpPgcH2NZ078J/Kfzr6rNYgVOJe7rZxQTeA2H/+uGTp51x1rtX6BZIfAN2FDh/n7GzyVUporQPrECV2KuwnOjOCFyJElZKPUjp/FJBZGqzBEbYy8fvsV3Brv3nItp3IxryiN0Y9GWlLLQGziAS5fA4zR24bGy0BGxcw7zf6xHF/cxf4T+LtpQ6eQZGGu1u9AYtkCKWihFLZSiFkpRC6WohVLUQilqoRS1UIpaKEUtlKIWSlELpaiFUtRCKWqhFBe00F9LZhFMMv8E7XFxOD7UU9ixVps4hd3QL3R70ZaUstA7eBeXVIwxLeokc0W8i7G8YowJPIq7y0LjyFUrN0zjejyBK0U1KccPqk39rCjmzROaEb2sUse4CS/hHjEqk1iDZyyw1FU6hZ1h/ipbzPn0Q+J8+StRfvoJj+CuRcTSLzSziOdXidLoe6J2ehgrsHoRsZq9j9niulr10vjx4roVG8UU/i6qAgtmrNW+SEy1hig5nSmC3lolkEjgQ7gKd+ByvC7qt1W4H5twYmT7ltZGPI178YUY+vEKwUZF3XYVTuLLijKb8ZxYZVlTjNAeUQW6TfT4a/yIP0SOnI9e7i0X28CD0lvHLK7AdWKaL8NHeLEplvkRtPGUeMNhzQJ7938whVexv5NnR/vLU8/jrULoatHTQbz/0RCjeVRsot938mwC/gGO0r0xRMFl1wAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
